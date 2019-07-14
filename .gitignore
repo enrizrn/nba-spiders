@@ -1,2 +1,8 @@
+# Virtual Environment
 nba-spiders-venv
+
+# Visual Studio Code config
 .vscode
+
+# compilations
+*.pyc
